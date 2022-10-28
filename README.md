@@ -4,6 +4,7 @@
 Node.js 12 or 14 and above
 # Installation
 This repository does not have node modules. Hence, we need to install node modules by using the following command
+
 npm install
 # Exceution
 Use the follwing commands to execute spec file. This will give test results on command window where this command got executed.
